@@ -1,0 +1,40 @@
+body {
+  background-color: aqua;
+}
+
+h1 {
+  color: purple;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h6 {
+  color: white;
+}
+
+.header {
+  background-color: white;
+  border: 1px solid white;
+  padding-left: 10px;
+}
+
+.footer {
+  background-color: purple;
+  border: 1px solid purple;
+  padding-left: 10px;
+}
+
+img {
+  width: 100%;
+}
+
+p, ul {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.info {
+  background-color: black;
+  border: 1px solid black;
+  padding-left: 10px;
+}
